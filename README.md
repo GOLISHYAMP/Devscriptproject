@@ -1,2 +1,2 @@
-# Devscriptproject
-first project
+# Astrology basic 
+first project in python
